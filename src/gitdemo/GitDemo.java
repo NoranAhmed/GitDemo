@@ -16,7 +16,7 @@ public class GitDemo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String name = "Noran";
+        String name = "Noran Nasser";
         String city = "Cairo"; 
         String DOB = "01/01/1997";
         String college = "Faculty of Engineering";
